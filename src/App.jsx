@@ -6,7 +6,6 @@ function App() {
     return (
         <>
             <Navbar />
-            <h1>Coder React Project</h1>
             <ItemListContainer shop='Mi Tienda de E-Commerce de CoderHouse' />
         </>
     )
