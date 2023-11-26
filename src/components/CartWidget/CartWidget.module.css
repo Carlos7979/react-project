@@ -1,3 +1,20 @@
 .cartShopping {
-	color: #747bff
+    color: #747bff;
+}
+
+.notificationBubble {
+    background-color: hsla(0, 100%, 50%, 0.7);
+    color: white;
+    border-radius: 100%;
+    padding: 2px 4px;
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.notificationBubbleContainer {
+	position: relative;
+	display: flex;
 }
