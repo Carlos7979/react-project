@@ -7,8 +7,8 @@ const CartWidget = () => {
         <>
             <img className={styles.cartShopping} src={cartShopping} alt='' />
             <div className={styles.notificationBubbleContainer}>
-				<div className={styles.notificationBubble}>{notificationValue}</div>
-			</div>
+                <div className={styles.notificationBubble}>{notificationValue}</div>
+            </div>
         </>
     )
 }
